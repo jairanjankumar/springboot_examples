@@ -1,4 +1,4 @@
-package com.github.jairanjankumar.springboot.example.basics;
+package com.github.springboot.example.basics;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

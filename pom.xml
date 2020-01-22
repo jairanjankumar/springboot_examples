@@ -8,7 +8,7 @@
 		<version>2.2.1.RELEASE</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.github.jairanjankumar.springboot.example</groupId>
+	<groupId>com.github.springboot.example</groupId>
 	<artifactId>basics</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>springboot_examples</name>

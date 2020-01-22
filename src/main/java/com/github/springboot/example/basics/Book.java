@@ -1,4 +1,4 @@
-package com.github.jairanjankumar.springboot.example.basics;
+package com.github.springboot.example.basics;
 
 public class Book {
     long id;
